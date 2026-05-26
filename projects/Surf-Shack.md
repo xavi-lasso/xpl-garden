@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Beautiful City
+title: Surf Shack
 description: |
   Images taken from the Future Cities exhibition held during Paris Fashion Week at the Centre Pompidou.
 year: 2022
@@ -9,10 +9,9 @@ images:
     caption: a caption
   - src: /assets/uploads/photo-1699213880412-01eddb3023ee.avif
     caption: jkkhkjhm
-date: '2023-11-10T12:28:51.623Z'
+date: 2023-11-10T12:28:51.623Z
 position: 4
 ---
-
 
 An additional fictitious project description.
 

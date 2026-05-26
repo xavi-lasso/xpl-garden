@@ -7,7 +7,7 @@ config:
   image_width_lg: 2400
   font_stack_system: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"'
 metadata:
-  site_url: 'https://6a14f855d4281a989caa1886--nimble-torte-5e9a05.netlify.app/'
+  site_url: 'https://nimble-torte-5e9a05.netlify.app/'
   site_title: Xavi
   site_subtitle_1: Works
   site_subtitle_2: 'Quito, EC'

@@ -12,7 +12,7 @@ metadata:
   site_subtitle_1: Works
   site_subtitle_2: 'Quito, EC'
   site_description: |
-    I'm an artist and designer whose work is rooted in the beauty of nature and driven by a desire to express what lies beyond words. 
+    I'm an artist and designer whose work is rooted in the beauty of nature and driven by a desire to express what lies beyond words.
   site_email: xavierplasso@gmail.com
   site_social_url: 'https://instagram.com/xavipl__'
   site_icon_svg: /assets/uploads/android-chrome-192x192.png
@@ -42,7 +42,7 @@ theme:
     item_output_limit: 48
     transition_duration: 300
     show_project_year: true
-    show_project_grid_titles: true
+    show_project_grid_titles: false
 images:
   avif:
     enabled: false
